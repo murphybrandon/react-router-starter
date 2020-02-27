@@ -1,14 +1,14 @@
 {
   "name": "react-router-starter",
   "version": "1.0.0",
-  "description": "Starter code for React SPAs. Spend less time tooling, and more time building, React/React Router/Webpack/Styled Components.",
+  "description": "Starter code for React SPAs. React Router + Webpack + Styled Components",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
     "build-dev": "webpack-dev-server"
   },
-  "author": "Raphael Ram",
+  "author": "Brandon Murphy",
   "license": "ISC",
   "dependencies": {
     "react": "^16.8.6",
